@@ -2,24 +2,24 @@
 
 An open-source, fully customizable, self-hosted eCommerce platform for modern developers — built with freedom and flexibility at its core.
 
-## ✨ Overview
+## Overview
 
 Nazarajs is what Linux is to operating systems — a powerful, developer-first alternative to restrictive eCommerce platforms like Shopify, WooCommerce, or even Medusa. It gives you 100% control over every layer of your store: frontend, backend, APIs, admin, and architecture.
 
 Whether you're building a SaaS storefront, a headless PWA, or a custom commerce experience — Nazarajs is designed to be hacked, extended, and molded to your needs.
 
-## 🧱 Features
+## Features
 
-- 🔓 100% Open Source and MIT Licensed
-- 🧹 Fully modular and composable architecture
-- 💅 Customizable UI with built-in starter templates
-- 🎛️ Ready-to-use Admin Dashboard (like shadcn/ui but for eCommerce)
-- ⚙️ Powerful API layer – easy to extend, override or swap
-- 🛒 Headless, frontend-agnostic (Next.js, Nuxt, Astro, etc.)
-- 🔐 Self-hosted or cloud-deployable (Vercel, Railway, Docker, etc.)
-- 🌐 Multi-store, multi-language, multi-currency support (planned)
+- 100% Open Source and MIT Licensed
+- Fully modular and composable architecture
+- Customizable UI with built-in starter templates
+- Ready-to-use Admin Dashboard (like shadcn/ui but for eCommerce)
+- Powerful API layer – easy to extend, override or swap
+- Headless, frontend-agnostic (Next.js, Nuxt, Astro, etc.)
+- Self-hosted or cloud-deployable (Vercel, Railway, Docker, etc.)
+- Multi-store, multi-language, multi-currency support (planned)
 
-## 🏗️ Tech Stack (Planned)
+## Tech Stack (Planned)
 
 - Framework: Next.js (App Router, Server Components)
 - UI Layer: Tailwind CSS + shadcn/ui
@@ -29,8 +29,7 @@ Whether you're building a SaaS storefront, a headless PWA, or a custom commerce 
 - Deployment: Docker, Railway, Vercel, etc.
 - Monorepo Tooling: Turborepo / pnpm workspaces
 
-## 📦 Monorepo Structure (Planned)
-
+## Monorepo Structure (Planned)
 ```
 nazarajs/
 ├── apps/
@@ -45,7 +44,8 @@ nazarajs/
     README.md
 ```
 
-## 🚀 Getting Started
+
+## Getting Started
 
 Coming soon. In the meantime:
 
@@ -54,7 +54,7 @@ Coming soon. In the meantime:
 3. Set up environment variables
 4. Start dev server for admin/storefront
 
-## 🌍 Philosophy
+## Philosophy
 
 Nazarajs is built with one simple belief: developers deserve freedom.
 
@@ -65,22 +65,20 @@ Other eCommerce solutions restrict what you can customize, often hiding business
 - Offer flexibility with batteries included — not enforced
 - Encourage composability, headless structure, and ownership
 
-## 🛠️ Contributing
+## Contributing
 
-Contributions welcome! We’re building in the open and believe in a community-first future for eCommerce.
+Contributions welcome! We're building in the open and believe in a community-first future for eCommerce.
 
 To contribute:
 
-- Fork the repo
-- Create a feature or bugfix branch
-- Submit a pull request
+1. Fork the repo
+2. Create a feature or bugfix branch
+3. Submit a pull request
 
 Full contributing guide coming soon.
 
-## 📄 License
+## License
 
 MIT © Nazarajs
 
----
-
-> “Nazarajs is not just an eCommerce tool — it's a declaration of independence for developers.”
+> "Nazarajs is not just an eCommerce tool — it's a declaration of independence for developers."
